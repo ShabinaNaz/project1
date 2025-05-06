@@ -4,7 +4,7 @@ import os
 from io import BytestIO
 
 
-st.set_page_config(page_title== "Data Sweeper",layout='wide')
+st.set_page_config(page_title= "Data Sweeper",layout='wide')
 
 #Custom Css
 st.markdown(
